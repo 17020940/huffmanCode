@@ -9,6 +9,7 @@
 Chạy file Huffman.cpp:
 - g++ Huffman.cpp -o Huffman
 - ./Huffman
+
 Chạy file decodeHuffman.cpp : Cần chạy file Huffman.cpp trước để tạo ra 2 file encode.txt và Bit_Code.txt để làm đầu vào.
 - g++ decodeHuffman.cpp -o decodeHuffman
 - ./decodeHuffman
